@@ -1,0 +1,10 @@
+#content {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .particle {
+    position: absolute;
+    will-change: transform;
+    pointer-events: none;
+  }
